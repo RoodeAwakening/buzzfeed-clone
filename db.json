@@ -6,6 +6,7 @@
     "content": [
       {
         "id": "0",
+        "type": "question",
         "text": "Pick a vacation destination:",
         "options": [
           {
