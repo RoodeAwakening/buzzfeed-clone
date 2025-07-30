@@ -1,0 +1,551 @@
+{
+  "quiz": {
+    "quizId": "x32h532",
+    "title": "What Type of Cheese Are You?",
+    "subtitle": "Find out which cheese matches your personality!",
+    "content": [
+      {
+        "id": "0",
+        "text": "Pick a vacation destination:",
+        "options": [
+          {
+            "text": "Beach",
+            "value": "beach",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/champagne-beach-espiritu-santo-island-vanuatu-royalty-free-image-1655672510.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=640:*",
+            "alt": "A beautiful beach with clear blue water and white sand"
+          },
+          {
+            "text": "Mountains",
+            "value": "mountains",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/walking-on-the-danxia-landform-royalty-free-image-1623252956.jpg?crop=0.6673xw:1xh;center,top&resize=640:*",
+            "alt": "A scenic view of mountains with a clear sky"
+          },
+          {
+            "text": "City",
+            "value": "city",
+            "image": "https://www.amny.com/wp-content/uploads/2022/08/GettyImages-523538287.jpg?quality=51&resize=900,601",
+            "alt": "A bustling city skyline with skyscrapers"
+          },
+          {
+            "text": "Countryside",
+            "value": "countryside",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/moving-to-countryside-advice-1610529118.jpg?crop=0.683xw:1.00xh;0.318xw,0&resize=640:*",
+            "alt": "A peaceful countryside landscape with green fields"
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "type": "question",
+        "text": "What is your favorite food?",
+        "options": [
+          {
+            "text": "Pizza",
+            "value": "pizza",
+            "image": "https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=2048",
+            "alt": "A delicious slice of pepperoni pizza"
+          },
+          {
+            "text": "Sushi",
+            "value": "sushi",
+            "image": "https://www.kikkoman.eu/fileadmin/_processed_/4/2/csm_sushi-kakkoii_8e1b43842b.webp",
+            "alt": "A plate of assorted sushi rolls"
+          },
+          {
+            "text": "Burgers",
+            "value": "burgers",
+            "image": "https://images.themodernproper.com/production/posts/2016/ClassicCheeseBurger_9.jpg?w=600&q=82&auto=format&fit=crop&dm=1749310239&s=11efc970cce5adf5cc671fbf36e482eb",
+            "alt": "A juicy burger with lettuce and tomato"
+          },
+          {
+            "text": "Salad",
+            "value": "salad",
+            "image": "https://www.tasteofhome.com/wp-content/uploads/2025/02/Favorite-Mediterranean-Salad_EXPS_TOHcom25_41556_MD_P2_02_05_1b.jpg?fit=500,500&webp=1",
+            "alt": "A fresh salad with various vegetables"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "type": "question",
+        "text": "What is your favorite hobby?",
+        "options": [
+          {
+            "text": "Reading",
+            "value": "reading",
+            "image": "https://images.stockcake.com/public/1/4/6/1463b2d7-aff6-4485-8143-75c80cb72821_large/cozy-reading-time-stockcake.jpg",
+            "alt": "A person reading a book in a cozy setting"
+          },
+          {
+            "text": "Traveling",
+            "value": "traveling",
+            "image": "https://images.stockcake.com/public/b/5/4/b548e130-94d2-4717-b8e7-7bcb1a4e0938_large/embracing-the-horizon-stockcake.jpg",
+            "alt": "A scenic view of a traveler exploring a new place"
+          },
+          {
+            "text": "Cooking",
+            "value": "cooking",
+            "image": "https://images.stockcake.com/public/b/8/6/b8630d44-d272-4b57-ba8a-bcc1d31fe8f6_large/culinary-shadow-art-stockcake.jpg",
+            "alt": "A chef preparing a meal in the kitchen"
+          },
+          {
+            "text": "Gardening",
+            "value": "gardening",
+            "image": "https://images.stockcake.com/public/c/7/7/c777c9d1-cd96-4ad7-bd26-9dec4f5b8d8d_large/sunset-garden-tending-stockcake.jpg",
+            "alt": "A person tending to a garden with flowers"
+          }
+        ]
+      }
+    ],
+    "answers": [
+      {
+        "combination": ["beach", "pizza", "reading"],
+        "result": {
+          "title": "You are a Cheddar!",
+          "description": "Cheddar cheese is known for its rich and creamy flavor, just like your love for the beach and pizza. You enjoy the simple pleasures in life and appreciate a good book by the seaside."
+        }
+      },
+      {
+        "combination": ["beach", "pizza", "traveling"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, pizza, and traveling."
+        }
+      },
+      {
+        "combination": ["beach", "pizza", "cooking"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, pizza, and cooking."
+        }
+      },
+      {
+        "combination": ["beach", "pizza", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, pizza, and gardening."
+        }
+      },
+      {
+        "combination": ["beach", "sushi", "reading"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, sushi, and reading."
+        }
+      },
+      {
+        "combination": ["beach", "sushi", "traveling"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, sushi, and traveling."
+        }
+      },
+      {
+        "combination": ["beach", "sushi", "cooking"],
+        "result": {
+          "title": "You are a Brie!",
+          "description": "Brie cheese is soft and creamy, just like your love for the beach and sushi. You enjoy cooking and creating delightful dishes that bring people together."
+        }
+      },
+      {
+        "combination": ["beach", "sushi", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, sushi, and gardening."
+        }
+      },
+      {
+        "combination": ["beach", "burgers", "reading"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, burgers, and reading."
+        }
+      },
+      {
+        "combination": ["beach", "burgers", "traveling"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, burgers, and traveling."
+        }
+      },
+      {
+        "combination": ["beach", "burgers", "cooking"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, burgers, and cooking."
+        }
+      },
+      {
+        "combination": ["beach", "burgers", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, burgers, and gardening."
+        }
+      },
+      {
+        "combination": ["beach", "salad", "reading"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, salad, and reading."
+        }
+      },
+      {
+        "combination": ["beach", "salad", "traveling"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, salad, and traveling."
+        }
+      },
+      {
+        "combination": ["beach", "salad", "cooking"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, salad, and cooking."
+        }
+      },
+      {
+        "combination": ["beach", "salad", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of beach, salad, and gardening."
+        }
+      },
+      {
+        "combination": ["mountains", "pizza", "reading"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, pizza, and reading."
+        }
+      },
+      {
+        "combination": ["mountains", "pizza", "traveling"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, pizza, and traveling."
+        }
+      },
+      {
+        "combination": ["mountains", "pizza", "cooking"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, pizza, and cooking."
+        }
+      },
+      {
+        "combination": ["mountains", "pizza", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, pizza, and gardening."
+        }
+      },
+      {
+        "combination": ["mountains", "sushi", "reading"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, sushi, and reading."
+        }
+      },
+      {
+        "combination": ["mountains", "sushi", "traveling"],
+        "result": {
+          "title": "You are a Gouda!",
+          "description": "Gouda cheese is smooth and versatile, much like your adventurous spirit. You love exploring new places and trying different cuisines, especially sushi in the mountains."
+        }
+      },
+      {
+        "combination": ["mountains", "sushi", "cooking"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, sushi, and cooking."
+        }
+      },
+      {
+        "combination": ["mountains", "sushi", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, sushi, and gardening."
+        }
+      },
+      {
+        "combination": ["mountains", "burgers", "reading"],
+        "result": {
+          "title": "You are a Swiss!",
+          "description": "Swiss cheese is known for its holes and mild flavor, much like your love for the mountains and hearty burgers. You enjoy reading in the tranquility of nature."
+        }
+      },
+      {
+        "combination": ["mountains", "burgers", "traveling"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, burgers, and traveling."
+        }
+      },
+      {
+        "combination": ["mountains", "burgers", "cooking"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, burgers, and cooking."
+        }
+      },
+      {
+        "combination": ["mountains", "burgers", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, burgers, and gardening."
+        }
+      },
+      {
+        "combination": ["mountains", "salad", "reading"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, salad, and reading."
+        }
+      },
+      {
+        "combination": ["mountains", "salad", "traveling"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, salad, and traveling."
+        }
+      },
+      {
+        "combination": ["mountains", "salad", "cooking"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, salad, and cooking."
+        }
+      },
+      {
+        "combination": ["mountains", "salad", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of mountains, salad, and gardening."
+        }
+      },
+      {
+        "combination": ["city", "pizza", "reading"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, pizza, and reading."
+        }
+      },
+      {
+        "combination": ["city", "pizza", "traveling"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, pizza, and traveling."
+        }
+      },
+      {
+        "combination": ["city", "pizza", "cooking"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, pizza, and cooking."
+        }
+      },
+      {
+        "combination": ["city", "pizza", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, pizza, and gardening."
+        }
+      },
+      {
+        "combination": ["city", "sushi", "reading"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, sushi, and reading."
+        }
+      },
+      {
+        "combination": ["city", "sushi", "traveling"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, sushi, and traveling."
+        }
+      },
+      {
+        "combination": ["city", "sushi", "cooking"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, sushi, and cooking."
+        }
+      },
+      {
+        "combination": ["city", "sushi", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, sushi, and gardening."
+        }
+      },
+      {
+        "combination": ["city", "burgers", "reading"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, burgers, and reading."
+        }
+      },
+      {
+        "combination": ["city", "burgers", "traveling"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, burgers, and traveling."
+        }
+      },
+      {
+        "combination": ["city", "burgers", "cooking"],
+        "result": {
+          "title": "You are a Blue Cheese!",
+          "description": "Blue cheese has a bold and unique flavor, just like your love for the city and gourmet burgers. You enjoy experimenting in the kitchen and creating delicious meals."
+        }
+      },
+      {
+        "combination": ["city", "burgers", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, burgers, and gardening."
+        }
+      },
+      {
+        "combination": ["city", "salad", "reading"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, salad, and reading."
+        }
+      },
+      {
+        "combination": ["city", "salad", "traveling"],
+        "result": {
+          "title": "You are a Parmesan!",
+          "description": "Parmesan cheese is aged and flavorful, reflecting your love for the city and fresh salads. You enjoy traveling to new places and experiencing different cultures."
+        }
+      },
+      {
+        "combination": ["city", "salad", "cooking"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, salad, and cooking."
+        }
+      },
+      {
+        "combination": ["city", "salad", "gardening"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of city, salad, and gardening."
+        }
+      },
+      {
+        "combination": ["countryside", "pizza", "reading"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of countryside, pizza, and reading."
+        }
+      },
+      {
+        "combination": ["countryside", "pizza", "traveling"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of countryside, pizza, and traveling."
+        }
+      },
+      {
+        "combination": ["countryside", "pizza", "cooking"],
+        "result": {
+          "title": "You are a Unique Cheese!",
+          "description": "This cheese reflects your unique combination of countryside, pizza, and cooking."
+        }
+      },
+      {
+        "combination": ["countryside", "pizza", "gardening"],
+        "result": {
+          "title": "You are a Mozzarella!",
+          "description": "Mozzarella cheese is soft and versatile, just like your love for the countryside and homemade pizza. You find joy in gardening and creating delicious meals from fresh ingredients."
+        }
+      },
+      {
+        "combination": ["countryside", "sushi", "reading"],
+        "result": {
+          "title": "You are a Manchego!",
+          "description": "Like Manchego cheese from Spain, you have a rich and complex character. You appreciate the tranquility of countryside life while enjoying sophisticated foods like sushi. Your love for reading shows your thoughtful and contemplative nature."
+        }
+      },
+      {
+        "combination": ["countryside", "sushi", "traveling"],
+        "result": {
+          "title": "You are a Gruyere!",
+          "description": "Like Gruyere cheese, you're sophisticated yet down-to-earth. You blend traditional countryside values with worldly interests, enjoying both sushi and adventure. Your traveling spirit mirrors this cheese's journey from humble alpine origins to worldwide fame."
+        }
+      },
+      {
+        "combination": ["countryside", "sushi", "cooking"],
+        "result": {
+          "title": "You are a Camembert!",
+          "description": "Like Camembert cheese, you're refined and cultured. Your appreciation for both countryside living and culinary arts shows your sophisticated palate. Your cooking hobby reflects this cheese's artisanal nature."
+        }
+      },
+      {
+        "combination": ["countryside", "sushi", "gardening"],
+        "result": {
+          "title": "You are a Fontina!",
+          "description": "Like Fontina cheese from the Alps, you have a gentle and earthy character. You appreciate both nature and cultivation, shown in your love for gardening and refined tastes like sushi. You're happiest when surrounded by growing things."
+        }
+      },
+      {
+        "combination": ["countryside", "burgers", "reading"],
+        "result": {
+          "title": "You are a Provolone!",
+          "description": "Like Provolone cheese, you're a perfect blend of rustic and refined. You enjoy simple pleasures like burgers while finding comfort in reading in your countryside setting."
+        }
+      },
+      {
+        "combination": ["countryside", "burgers", "traveling"],
+        "result": {
+          "title": "You are an Asiago!",
+          "description": "Like Asiago cheese, you have a bold and adventurous spirit. Your love for countryside living doesn't stop you from exploring the world, and you appreciate a good burger wherever you go."
+        }
+      },
+      {
+        "combination": ["countryside", "burgers", "cooking"],
+        "result": {
+          "title": "You are a Raclette!",
+          "description": "Like Raclette cheese, you're all about comfort and warmth. Your countryside home is where you love to cook hearty meals, especially perfecting your burger recipes."
+        }
+      },
+      {
+        "combination": ["countryside", "burgers", "gardening"],
+        "result": {
+          "title": "You are a Munster!",
+          "description": "Like Munster cheese, you have strong roots in tradition. You enjoy tending to your garden in the countryside and preparing delicious homemade burgers with fresh ingredients."
+        }
+      },
+      {
+        "combination": ["countryside", "salad", "reading"],
+        "result": {
+          "title": "You are a Ricotta!",
+          "description": "Like Ricotta cheese, you're light and refreshing. You enjoy healthy salads while reading in your peaceful countryside setting, appreciating the simple things in life."
+        }
+      },
+      {
+        "combination": ["countryside", "salad", "traveling"],
+        "result": {
+          "title": "You are a Halloumi!",
+          "description": "Like Halloumi cheese, you're versatile and unique. Your love for healthy eating and travel shows your balanced approach to life, while staying connected to your countryside roots."
+        }
+      },
+      {
+        "combination": ["countryside", "salad", "cooking"],
+        "result": {
+          "title": "You are a Pecorino!",
+          "description": "Like Pecorino cheese, you have a refined palate. You appreciate fresh ingredients from your countryside surroundings and enjoy creating healthy, delicious meals."
+        }
+      },
+      {
+        "combination": ["countryside", "salad", "gardening"],
+        "result": {
+          "title": "You are a Feta!",
+          "description": "Feta cheese is fresh and light, reflecting your love for the countryside and healthy salads. You find joy in gardening and appreciate the beauty of nature."
+        }
+      }
+    ]
+  }
+}
